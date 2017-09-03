@@ -6,7 +6,7 @@
 
 ### 原题目如下：
 
-![Image](https://github.com/zhuangchuming/array2group/blob/master/imgs/head.jpeg)
+![Image](https://github.com/zhuangchuming/array2group/blob/master/imgs/head.jpg)
 
 
 
@@ -25,7 +25,7 @@ output: (1 6)(2 4) => 1
 divides.py 经过测试，目前暂未出现运行失败或者错误的情况，如果有想测试的，可以亲自在代码里修改：
 ### 步骤如下：
 
-![Image](https://github.com/zhuangchuming/array2group/blob/master/imgs/content0.jpeg)
+![Image](https://github.com/zhuangchuming/array2group/blob/master/imgs/content0.jpg)
 
 注释第七行，并且在17行组输入你想要测试的数组，然后运行即可。
 
@@ -40,7 +40,7 @@ divides.py 经过测试，目前暂未出现运行失败或者错误的情况，
 
 ### 运行示例如下图：
 
-![Image](https://github.com/zhuangchuming/array2group/blob/master/imgs/content1.jpeg)
+![Image](https://github.com/zhuangchuming/array2group/blob/master/imgs/content1.jpg)
 
 
-![Image](https://github.com/zhuangchuming/array2group/blob/master/imgs/content2.jpeg)
+![Image](https://github.com/zhuangchuming/array2group/blob/master/imgs/content2.jpg)
